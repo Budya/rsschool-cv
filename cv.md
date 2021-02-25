@@ -65,7 +65,7 @@
     ~~~
 ## Dev experience
   * Courses "Computer Academy 'Step' " (itstep.by 2015-2018)
-  * Internship Angular (may 2019 - september 2019)&#177;
+  * Internship Angular (may 2019 - september 2019)
   * [Learnjavascript.online](https://learnjavascript.online/)
   * [freeCodeCamp](https://www.freecodecamp.org/)
   * [html academy](https://www.freecodecamp.org/)
