@@ -1,1 +1,1 @@
-https://budya.github.io/rsschool-cv/cv
+https://budya.github.io/rsschool-cv/cv.md
