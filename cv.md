@@ -31,7 +31,8 @@
       * Visual Studio Code
       * JB WebStorm 
     * Code example:
-    ```
+    
+    ```sh
     @Component({
       selector: 'app-root',
       template: `
