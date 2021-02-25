@@ -30,9 +30,10 @@
       * Visual Studio
       * Visual Studio Code
       * JB WebStorm 
-    * Code example:
+   *  Code example:
     
-    ```sh
+    
+    ~~~
     @Component({
       selector: 'app-root',
       template: `
@@ -61,7 +62,7 @@
           this._searchSubject.next(searchText);
         }
     }
-    ```
+    ~~~
 ## Dev experience
   * Courses "Computer Academy 'Step' " (itstep.by 2015-2018)
   * Internship Angular (may 2019 - september 2019)&#177;
