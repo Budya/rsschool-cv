@@ -1,0 +1,219 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Georgia", serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #444444;
+    background-color: #e5e5e5;
+}
+
+.main-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.site-header {
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    background-color: aqua;
+}
+
+.site-header img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    border-radius: 100%;
+}
+
+.name h1 {
+    margin: 15px auto;
+    font-family: "Georgia", serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+}
+
+.position h2 {
+    margin: 0 auto;
+    font-family: "Georgia", serif;
+    text-align: center;
+    font-weight: normal;
+}
+
+.contacts {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.contact-btn {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    box-sizing: border-box;
+    margin: 0 0;
+    font-size: 0;
+}
+
+.contact-btn:hover {
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.btn-linked {
+    background: url("../img/linked-icon.svg");
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: center 1px;
+}
+
+.btn-gmail {
+    background: url("../img/gmail-icon.svg");
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: center 2px;
+}
+
+.btn-vk {
+    background: url("../img/vk-icon.svg");
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-telegram {
+    background: url("../img/telegram-icon.svg");
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-telegram {
+    background: url("../img/telegram-icon.svg");
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-viber {
+    background: url("../img/viber-icon.svg");
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-viber {
+    background: url("../img/viber-icon.svg");
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.container-flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.no-border {
+    border: unset;
+}
+
+.about {
+    display: block;
+    width: 65%;
+    padding: 0 10px;
+}
+
+.objective,
+.skills-2,
+.skills-3 {
+    display: block;
+    width: 35%;
+    padding: 0 20px;
+    border-left: 2px solid black;
+}
+
+.about h2,
+.objective h2,
+.skills-words h2,
+.skills-header,
+.skills-1 h2,
+.skills-2 h2,
+.skills-3 h2 {
+    font-family: "Georgia", serif;
+    font-weight: normal;
+}
+
+ul {
+    margin-left: -20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.skills-header {
+    text-align: center;
+}
+
+.skills-1 {
+    display: block;
+    width: 33%;
+}
+
+.skills-2 {
+    display: block;
+    width: 33%;
+}
+
+.skills-3 {
+    display: block;
+    width: 33%;
+}
+
+footer {
+    margin: 0 auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 15px;
+    background-color: aqua;
+}
+
+.footer-links {
+    padding-right: 30px;
+    text-align: right;
+}
+
+.footer-links .contact-btn {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    margin: 0 0;
+    font-size: 0;
+}
+
+.btn-git {
+    background: url("../img/github-icon.svg");
+    background-size: 45px 45px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-rs {
+    background: url("../img/rs-icon.svg");
+    background-size: 45px 45px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
